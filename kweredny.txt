@@ -1,0 +1,4 @@
+kw1 : SELECT `nazwa`,`wystepowanie` FROM `ryby` WHERE `styl_zycia` = 1
+kw2 : SELECT `Ryby_id`,`wymiar_ochronny`FROM `okres_ochronny`WHERE `wymiar_ochronny` < 50
+kw3 : SELECT `nazwa`,`akwen`,`wojewodztwo` FROM `ryby` JOIN `lowisko` ON ryby.id = lowisko.Ryby_id WHERE `rodzaj` = 2
+kw4 : ALTER TABLE ryby ADD COLUMN dobowy_limit INT
