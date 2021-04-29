@@ -20,21 +20,16 @@ body{
     background-color: #40E0D0;
     width: 40%;
     height: 500px;
-    float: left;
-    
-    
+    float: left;    
 }
 .prawy{
     background-color: #40E0D0;
     width: 60%;
     height: 500px;
-    float: left;
-    
-    
+    float: left;   
 }
 img{
     padding: 5px 5px 5px 5px ;
     margin: 10px 10px 10px 10px;
-    border: 1px solid #000080 ;
-    
+    border: 1px solid #000080 ;   
 }
