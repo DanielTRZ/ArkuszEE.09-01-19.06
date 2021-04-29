@@ -6,8 +6,7 @@ body{
     color: white;
     padding: 20px 20px 20px 20px;
     font-size: 120%;
-    text-align: center;
-    
+    text-align: center;    
 }
 .stopka{
     background-color: #4682B4;
@@ -15,13 +14,8 @@ body{
     padding: 20px 20px 20px 20px;
     font-size: 120%;
     text-align: center;
-    clear: both;
-    
-    
-    
-    
+    clear: both;   
 }
-
 .lewy{
     background-color: #40E0D0;
     width: 40%;
