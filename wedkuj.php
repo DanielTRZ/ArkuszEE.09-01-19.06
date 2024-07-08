@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Wędkujemy</title> 
-        <link rel="stylesheet" href="styl_1.css">     
+<link rel="stylesheet" href="styl_1.css">     
     </head>
   <body>
      <div class="baner">
