@@ -24,7 +24,7 @@ while($row=mysqli_fetch_array($wynik))
 echo "<ul>";
 echo "<li>";
 echo  $row['nazwa'].","." występowanie: ".$row['wystepowanie'];"<br>";
-            echo "</ul>";
+echo "</ul>";
             echo "</li>";
             }
             mysqli_close($baza);
