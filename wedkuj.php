@@ -5,7 +5,7 @@
 <title>Wędkujemy</title> 
 <link rel="stylesheet" href="styl_1.css">     
 </head>
-  <body>
+<body>
      <div class="baner">
             <h1>Portal dla wędkarzy</h1>
      </div>
