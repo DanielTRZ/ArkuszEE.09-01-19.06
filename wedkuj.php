@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Wędkujemy</title> 
 <link rel="stylesheet" href="styl_1.css">     
-    </head>
+</head>
   <body>
      <div class="baner">
             <h1>Portal dla wędkarzy</h1>
