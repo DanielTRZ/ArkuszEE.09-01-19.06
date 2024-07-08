@@ -16,7 +16,7 @@
 $baza=mysqli_connect('localhost','root','','wedkowanie');
 if(mysqli_connect_errno()){
 echo "wystąpił błąd połączenia z bazą";
-            }
+}
          
             $wynik=mysqli_query($baza,"SELECT `nazwa`,`wystepowanie` FROM `ryby` WHERE `styl_zycia` = 1");
             while($row=mysqli_fetch_array($wynik))
