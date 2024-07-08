@@ -10,7 +10,7 @@
 <h1>Portal dla wędkarzy</h1>
 </div>
 <div class="lewy">
-            <h2>Ryby drapieżne naszych wód</h2>
+<h2>Ryby drapieżne naszych wód</h2>
             <?php
          
             $baza=mysqli_connect('localhost','root','','wedkowanie');
