@@ -19,7 +19,7 @@ echo "wystąpił błąd połączenia z bazą";
 }
          
 $wynik=mysqli_query($baza,"SELECT `nazwa`,`wystepowanie` FROM `ryby` WHERE `styl_zycia` = 1");
-            while($row=mysqli_fetch_array($wynik))
+while($row=mysqli_fetch_array($wynik))
             {
             echo "<ul>";
             echo "<li>";
