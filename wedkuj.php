@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="styl_1.css">     
 </head>
 <body>
-     <div class="baner">
+<div class="baner">
             <h1>Portal dla wędkarzy</h1>
      </div>
      <div class="lewy">
