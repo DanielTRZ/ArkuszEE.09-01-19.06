@@ -14,8 +14,7 @@
 <?php
          
 $baza=mysqli_connect('localhost','root','','wedkowanie');
-         
-            if(mysqli_connect_errno()){
+if(mysqli_connect_errno()){
             echo "wystąpił błąd połączenia z bazą";
             }
          
