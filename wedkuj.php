@@ -8,7 +8,7 @@
 <body>
 <div class="baner">
 <h1>Portal dla wędkarzy</h1>
-     </div>
+</div>
      <div class="lewy">
             <h2>Ryby drapieżne naszych wód</h2>
             <?php
