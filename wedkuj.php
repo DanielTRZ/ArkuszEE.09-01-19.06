@@ -11,7 +11,7 @@
 </div>
 <div class="lewy">
 <h2>Ryby drapieżne naszych wód</h2>
-            <?php
+<?php
          
             $baza=mysqli_connect('localhost','root','','wedkowanie');
          
