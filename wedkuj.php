@@ -22,7 +22,7 @@ $wynik=mysqli_query($baza,"SELECT `nazwa`,`wystepowanie` FROM `ryby` WHERE `styl
 while($row=mysqli_fetch_array($wynik))
 {
 echo "<ul>";
-            echo "<li>";
+echo "<li>";
             echo  $row['nazwa'].","." występowanie: ".$row['wystepowanie'];"<br>";
             echo "</ul>";
             echo "</li>";
