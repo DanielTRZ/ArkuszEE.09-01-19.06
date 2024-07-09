@@ -30,7 +30,7 @@ echo "</li>";
 mysqli_close($baza);
 ?>
 </div>
-     <div class="prawy">
+<div class="prawy">
             <img src="ryba1.jpg" alt="sum"><br>
             <a href="kweredny.txt">Pobierz kwerendy</a>
             
