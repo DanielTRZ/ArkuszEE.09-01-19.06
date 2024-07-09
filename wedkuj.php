@@ -25,7 +25,7 @@ echo "<ul>";
 echo "<li>";
 echo  $row['nazwa'].","." występowanie: ".$row['wystepowanie'];"<br>";
 echo "</ul>";
-            echo "</li>";
+echo "</li>";
             }
             mysqli_close($baza);
                 
