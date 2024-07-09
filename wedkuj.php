@@ -34,7 +34,7 @@ mysqli_close($baza);
 <img src="ryba1.jpg" alt="sum"><br>
 <a href="kweredny.txt">Pobierz kwerendy</a>
             
-     </div>
+</div>
      <div class="stopka">
             <p>Stronę wykonał: Daniel </p>   
      </div>
