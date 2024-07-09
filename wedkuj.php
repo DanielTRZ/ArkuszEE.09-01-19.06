@@ -28,8 +28,7 @@ echo "</ul>";
 echo "</li>";
 }
 mysqli_close($baza);
-                
-            ?>
+?>
      </div>
      <div class="prawy">
             <img src="ryba1.jpg" alt="sum"><br>
