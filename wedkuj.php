@@ -39,5 +39,5 @@ mysqli_close($baza);
 <p>Stronę wykonał: Daniel </p>   
 </div>
            
-    </body> 
+</body> 
 </html>
