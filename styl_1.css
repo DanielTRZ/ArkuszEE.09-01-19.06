@@ -5,7 +5,7 @@ font-family:Verdana;
 background-color: #4682B4;
 color: white;
 padding: 20px 20px 20px 20px;
-    font-size: 120%;
+font-size: 120%;
     text-align: center;    
 }
 .stopka{
@@ -23,7 +23,7 @@ padding: 20px 20px 20px 20px;
     float: left;    
 }
 .prawy{
-    background-color: #40E0D0
+    background-color: #40E0D
     width: 60%;
     height: 500px;
     float: left;   
