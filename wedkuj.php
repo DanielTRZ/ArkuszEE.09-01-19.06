@@ -35,7 +35,7 @@ mysqli_close($baza);
 <a href="kweredny.txt">Pobierz kwerendy</a>
             
 </div>
-     <div class="stopka">
+<div class="stopka">
             <p>Stronę wykonał: Daniel </p>   
      </div>
            
