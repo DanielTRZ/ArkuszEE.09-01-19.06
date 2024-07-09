@@ -4,7 +4,7 @@ font-family:Verdana;
 .baner{
 background-color: #4682B4;
 color: white;
-    padding: 20px 20px 20px 20px;
+padding: 20px 20px 20px 20px;
     font-size: 120%;
     text-align: center;    
 }
@@ -23,7 +23,7 @@ color: white;
     float: left;    
 }
 .prawy{
-    background-color: #40E0D0;
+    background-color: #40E0D0
     width: 60%;
     height: 500px;
     float: left;   
